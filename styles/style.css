@@ -41,7 +41,7 @@
     font-weight: 400;
     font-size: 18px;
     font-style: normal;
-    line-height: 24.3px;
+    line-height: 1.35;
 }
 
 .header__address {
@@ -76,7 +76,7 @@
     padding: 165px 50px 56px;
     font-weight: 700;
     font-size: 100px;
-    line-height: 115%;
+    line-height: 1.15;
     letter-spacing: 0.3em;
     text-transform: uppercase;
 }
@@ -117,7 +117,7 @@
 .cover__description-text {
     align-self: center;
     font-weight: 400;
-    line-height: 28px;
+    line-height: 1.27;
     word-spacing: 18.5px;
 }
 
@@ -126,7 +126,7 @@
     padding: 12px 32px 14px 31px;
     color: inherit;
     font-weight: 500;
-    line-height: 100%;
+    line-height: 1;
     text-transform: inherit;
     background-color: transparent;
     cursor: pointer;
@@ -140,7 +140,7 @@
 .about__title {
     font-weight: 700;
     font-size: 40px;
-    line-height: 100%;
+    line-height: 1;
     text-transform: uppercase;
 }
 
@@ -196,7 +196,7 @@
 .card__text {
     position: relative;
     z-index: 1;
-    line-height: 120%;
+    line-height: 1.2;
     letter-spacing: 0;
 }
 
@@ -216,7 +216,7 @@
     margin-left: 40px;
     border-bottom: 1px solid #000;
     font-size: 20px;
-    line-height: 100%;
+    line-height: 1;
     letter-spacing: 0;
     text-decoration: none;
 }
@@ -257,7 +257,7 @@
     gap: 24px;
     font-weight: 400;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 0;
 }
 
