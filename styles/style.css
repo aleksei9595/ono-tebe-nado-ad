@@ -178,7 +178,6 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    cursor: pointer;
 }
 
 .card_type_film {
@@ -293,10 +292,6 @@
     justify-self: end;
     gap: 48px;
     list-style: none;
-}
-
-.footer__social-link {
-    cursor: pointer;
 }
 
 .footer__social-icon {
